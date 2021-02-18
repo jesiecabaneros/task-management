@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~ng-zorro-antd/ng-zorro-antd.min.css";
+
+
+.container{
+  height: 100vh;
+}
+.h100{
+  height: 100vh;
+}
+.center-panel{
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+}
